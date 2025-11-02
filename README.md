@@ -1,4 +1,4 @@
-#Hi, I am Faizan 
+# Hi, I am Faizan 
 
 🎓 Engineering student at Jamia Millia Islamia, majoring in Electronics & Communication with a minor in Computer Engineering.<br/>
 ✅ Built full-stack web apps using Java, React.js, Node.js, Express, and MongoDB.<br/>
